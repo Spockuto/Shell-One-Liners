@@ -12,3 +12,5 @@
 	* CSE students Lab Helper
 * filemount
 	* Used to mount Z drive
+* start
+	* My Startup Script. Cuz im Lazy
